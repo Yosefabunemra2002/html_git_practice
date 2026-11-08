@@ -1,1 +1,1 @@
-# html_git_practice
+HTML page to training Git& GitHub
